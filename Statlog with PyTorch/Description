@@ -1,0 +1,6 @@
+I've Worked with Statlog (Vehicle Silhouettes) Dataset to classify vehicle types based on geometric and shape-based features derived from vehicle silhouettes. 
+The goal is to predict one of four vehicle classes: Bus, Opel, Saab, and Van.
+
+I've uploaded the data after I gathered and transformed the data into one CSV file you can find it with name "vehicle_data.csv"
+
+Data source: https://archive.ics.uci.edu/dataset/149/statlog+vehicle+silhouettes
