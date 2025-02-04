@@ -3,4 +3,6 @@ The goal is to predict one of four vehicle classes: Bus, Opel, Saab, and Van.
 
 I've uploaded the data after I gathered and transformed the data into one CSV file you can find it with name "vehicle_data.csv"
 
+*In the updated notebook I've added a residual layers and batch norm with initialization for the parameters
+
 Data source: https://archive.ics.uci.edu/dataset/149/statlog+vehicle+silhouettes
